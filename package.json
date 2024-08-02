@@ -20,7 +20,7 @@
     "prettier": "^2.8.0"
   },
   "dependencies": {
-    "ava": "^5.1.0",
+    "ava": "^5.3.1",
     "big.js": "^6.2.1",
     "near-api-js": "^1.1.0",
     "near-workspaces": "^3.2.2",
